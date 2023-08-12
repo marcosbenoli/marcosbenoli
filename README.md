@@ -1,5 +1,5 @@
 ![banner] *Adicionar link da imagem*
-### Olá! eu sou Marcos Benoli 👋
+### Olá! Sou Marcos Benoli 👋
 
 <!--
 **marcosbenoli/marcosbenoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
