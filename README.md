@@ -1,4 +1,4 @@
-![banner] *Adicionar link da imagem*
+![banner] [*Adicionar link da imagem*](https://github.com/marcosbenoli/marcosbenoli/blob/main/images/plano%20de%20fundo%20de%20capa%20de%20site.png?raw=true)
 ### Olá! Sou Marcos Benoli 👋
 
 <!--
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 📫 Meu contato: marcosbenoli@gmail.com
 - 😄 Me chamam de Marquinhos
 - ⚡ Fato engraçado sobre mim: Faço imitações e vozes diferentes para locução
-- Apesar de gostar de locução quero avançar meus conhecimentos no TI, IoT e IA.
+- :bulb: Apesar de gostar de locução quero avançar meus conhecimentos no TI, IoT e IA.
 -->
