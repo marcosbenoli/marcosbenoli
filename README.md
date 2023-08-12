@@ -1,4 +1,4 @@
-![banner] https://github.com/marcosbenoli/marcosbenoli/blob/main/images/plano%20de%20fundo%20de%20capa%20de%20site.png?raw=true
+https://github.com/marcosbenoli/marcosbenoli/blob/main/images/plano%20de%20fundo%20de%20capa%20de%20site.png?raw=true
 ### Olá! Sou Marcos Benoli 👋
 
 <!--
